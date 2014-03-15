@@ -1,7 +1,4 @@
 package com.sibu.immuteclass.service.Interface;
-
-
-// <editor-fold defaultstate="collapsed" desc=" UML Marker "> 
 // #[regen=yes,id=DCE.0BDEA026-C135-4524-1692-45B745FC800B]
 // </editor-fold> 
 public interface CabinCrew extends Airport{
